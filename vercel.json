@@ -11,8 +11,9 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://pruebas-teal.vercel.app",
         "APP_KEY":"base64:RbW9DLXeOsnNQ6I8al+VKk7h0s6pMZpbHUgmrIkR6pE=",
+        
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
